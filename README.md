@@ -4,9 +4,9 @@
 const Alex = {
   code: ['C#', 'Python', 'HTML', 'CSS', 'Javascript'], 
   tools: ['Azure', 'DevOps', 'Docker', 'Git', 'GitHub', 'VisualStudio', 'Vue.js', 'SqlServer', 'MongoDB'],
-  areas: ['Bank', 'Finance', 'Insurance'],
+  areas: ['Bank', 'Financial', 'Insurance'],
   techCommunities: {
-                        participates: 'Microsoft México', 'LaunchX', 'Innovaccion Virtual'
+                        participates: 'Microsoft', 'LaunchX', 'Innovaccion Virtual'
                    },
 }
 ```
