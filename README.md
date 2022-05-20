@@ -3,7 +3,7 @@
 ```
 const Alex = {
   code: ['C#', 'Python', 'HTML', 'CSS', 'Javascript'], 
-  tools: ['Azure', 'DevOps', 'Docker', 'Git', 'GitHub', 'VisualStudio', 'SqlServer', 'MongoDB'],
+  tools: ['Azure', 'DevOps', 'Docker', 'Git', 'GitHub', 'VisualStudio', 'Vue.js', 'SqlServer', 'MongoDB'],
   areas: ['Bank', 'Finance', 'Insurance'],
   techCommunities: {
                         participates: 'Microsoft México', 'LaunchX', 'Innovaccion Virtual'
